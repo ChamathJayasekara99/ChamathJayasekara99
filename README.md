@@ -12,7 +12,7 @@ I am Chamath Jayasekara from Sri Lanka, and I am currently studying for a softwa
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamathjayasekara99)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chamathjayasekara99&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chamathjayasekara99&show_icons=true&count_private=true&theme=synthwave)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chamathjayasekara99)  
 
