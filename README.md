@@ -4,7 +4,8 @@ I am Chamath Jayasekara from Sri Lanka, and I am currently studying for a softwa
 
 ### Skills and Experience
 *⚛️ React
-*![Uploading WebDevWebsiteDevelopmentGIF.gif…]
+*💻 HTML,CSS,JS,php
+*🗄️ Mysql ,firebase
 *📱 ANdroid Mobile Applicaiton Development (Java) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chamathjayasekara99&show_icons=true&theme=synthwave)
