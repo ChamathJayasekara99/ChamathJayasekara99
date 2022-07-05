@@ -4,5 +4,5 @@ I am Chamath Jayasekara from Sri Lanka, and I am currently studying for a softwa
 
 ### Skills and Experience
 *atom
-[![Chamath's GitHub stats](https://github-readme-stats.vercel.app/api?username=chamathjayasekara99)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chamathjayasekara99&show_icons=true&theme=radical)
