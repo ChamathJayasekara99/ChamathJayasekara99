@@ -5,7 +5,7 @@ I am Chamath Jayasekara from Sri Lanka, and I am currently studying for a softwa
 * ⚛️ React
 * 💻 HTML,CSS,JS,php
 * 🗄️ Mysql ,firebase
-* 📱 ANdroid Mobile Applicaiton Development (Java) 
+* 📱 Android Mobile Applicaiton Development (Java) 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chamathjayasekara99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/chamath-jayasekara-1b372a1a3/)  
